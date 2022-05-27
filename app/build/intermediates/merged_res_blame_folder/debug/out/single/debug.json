@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\MusleemQ - Copy\\MusleemQ\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_niatsholat.png.flat",
+        "source": "D:\\MusleemQ - Copy\\MusleemQ\\app\\src\\main\\res\\drawable-xxxhdpi\\niatsholat.png"
+    },
+    {
+        "merged": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\MusleemQ - Copy\\MusleemQ\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_row.xml.flat",
+        "source": "D:\\MusleemQ - Copy\\MusleemQ\\app\\src\\main\\res\\drawable\\bg_row.xml"
+    },
+    {
+        "merged": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\intermediates\\merged_res\\debug\\drawable_main_bg.png.flat",
+        "source": "D:\\MusleemQ - Copy\\MusleemQ\\app\\src\\main\\res\\drawable\\main_bg.png"
+    },
+    {
+        "merged": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_gerakansholat.png.flat",
+        "source": "D:\\MusleemQ - Copy\\MusleemQ\\app\\src\\main\\res\\drawable-xxxhdpi\\gerakansholat.png"
+    },
+    {
+        "merged": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_arrow_white.xml.flat",
+        "source": "D:\\MusleemQ - Copy\\MusleemQ\\app\\src\\main\\res\\drawable\\ic_arrow_white.xml"
+    },
+    {
+        "merged": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_bacaan_shalat.xml.flat",
+        "source": "D:\\MusleemQ - Copy\\MusleemQ\\app\\src\\main\\res\\layout\\activity_bacaan_shalat.xml"
+    },
+    {
+        "merged": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\MusleemQ - Copy\\MusleemQ\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_doa.png.flat",
+        "source": "D:\\MusleemQ - Copy\\MusleemQ\\app\\src\\main\\res\\drawable\\bg_doa.png"
+    },
+    {
+        "merged": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_gambarniat.png.flat",
+        "source": "D:\\MusleemQ - Copy\\MusleemQ\\app\\src\\main\\res\\drawable-xxxhdpi\\gambarniat.png"
+    },
+    {
+        "merged": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_bacaansholat.png.flat",
+        "source": "D:\\MusleemQ - Copy\\MusleemQ\\app\\src\\main\\res\\drawable-xxxhdpi\\bacaansholat.png"
+    },
+    {
+        "merged": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_quran.jpg.flat",
+        "source": "D:\\MusleemQ - Copy\\MusleemQ\\app\\src\\main\\res\\drawable\\bg_quran.jpg"
+    },
+    {
+        "merged": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_shalat_jenazah.xml.flat",
+        "source": "D:\\MusleemQ - Copy\\MusleemQ\\app\\src\\main\\res\\layout\\activity_shalat_jenazah.xml"
+    },
+    {
+        "merged": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\MusleemQ - Copy\\MusleemQ\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_shalat.png.flat",
+        "source": "D:\\MusleemQ - Copy\\MusleemQ\\app\\src\\main\\res\\drawable\\bg_shalat.png"
+    },
+    {
+        "merged": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\MusleemQ - Copy\\MusleemQ\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_bg_wave.xml.flat",
+        "source": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\bg_wave.xml"
+    },
+    {
+        "merged": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\intermediates\\merged_res\\debug\\drawable_gambardoa.png.flat",
+        "source": "D:\\MusleemQ - Copy\\MusleemQ\\app\\src\\main\\res\\drawable\\gambardoa.png"
+    },
+    {
+        "merged": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\intermediates\\merged_res\\debug\\drawable_shalatjenazah.png.flat",
+        "source": "D:\\MusleemQ - Copy\\MusleemQ\\app\\src\\main\\res\\drawable\\shalatjenazah.png"
+    },
+    {
+        "merged": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_bg_wave.png.flat",
+        "source": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\bg_wave.png"
+    },
+    {
+        "merged": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\MusleemQ - Copy\\MusleemQ\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\MusleemQ - Copy\\MusleemQ\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\intermediates\\merged_res\\debug\\drawable_shalatje.jpg.flat",
+        "source": "D:\\MusleemQ - Copy\\MusleemQ\\app\\src\\main\\res\\drawable\\shalatje.jpg"
+    },
+    {
+        "merged": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_bg_wave.png.flat",
+        "source": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\bg_wave.png"
+    },
+    {
+        "merged": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_bg_wave.png.flat",
+        "source": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\bg_wave.png"
+    },
+    {
+        "merged": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\MusleemQ - Copy\\MusleemQ\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\MusleemQ - Copy\\MusleemQ\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_bg_wave.png.flat",
+        "source": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\bg_wave.png"
+    },
+    {
+        "merged": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_splash.xml.flat",
+        "source": "D:\\MusleemQ - Copy\\MusleemQ\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_niat_shalat.xml.flat",
+        "source": "D:\\MusleemQ - Copy\\MusleemQ\\app\\src\\main\\res\\layout\\activity_niat_shalat.xml"
+    },
+    {
+        "merged": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\MusleemQ - Copy\\MusleemQ\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\MusleemQ - Copy\\MusleemQ\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\MusleemQ - Copy\\MusleemQ\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_niat.png.flat",
+        "source": "D:\\MusleemQ - Copy\\MusleemQ\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_niat.png"
+    },
+    {
+        "merged": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_bg_wave.png.flat",
+        "source": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\bg_wave.png"
+    },
+    {
+        "merged": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\intermediates\\merged_res\\debug\\drawable_splash.png.flat",
+        "source": "D:\\MusleemQ - Copy\\MusleemQ\\app\\src\\main\\res\\drawable\\splash.png"
+    },
+    {
+        "merged": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_bg_wave.png.flat",
+        "source": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\bg_wave.png"
+    },
+    {
+        "merged": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_arrow_black.xml.flat",
+        "source": "D:\\MusleemQ - Copy\\MusleemQ\\app\\src\\main\\res\\drawable\\ic_arrow_black.xml"
+    },
+    {
+        "merged": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\intermediates\\merged_res\\debug\\layout_list_bacaan_shalat.xml.flat",
+        "source": "D:\\MusleemQ - Copy\\MusleemQ\\app\\src\\main\\res\\layout\\list_bacaan_shalat.xml"
+    },
+    {
+        "merged": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\intermediates\\merged_res\\debug\\layout_list_niat_shalat.xml.flat",
+        "source": "D:\\MusleemQ - Copy\\MusleemQ\\app\\src\\main\\res\\layout\\list_niat_shalat.xml"
+    },
+    {
+        "merged": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_rounded_all.xml.flat",
+        "source": "D:\\MusleemQ - Copy\\MusleemQ\\app\\src\\main\\res\\drawable\\bg_rounded_all.xml"
+    },
+    {
+        "merged": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_doa.png.flat",
+        "source": "D:\\MusleemQ - Copy\\MusleemQ\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_doa.png"
+    },
+    {
+        "merged": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_bacaan.png.flat",
+        "source": "D:\\MusleemQ - Copy\\MusleemQ\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_bacaan.png"
+    },
+    {
+        "merged": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\MusleemQ - Copy\\MusleemQ\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\MusleemQ - Copy\\MusleemQ\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\MusleemQ - Copy\\MusleemQ\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

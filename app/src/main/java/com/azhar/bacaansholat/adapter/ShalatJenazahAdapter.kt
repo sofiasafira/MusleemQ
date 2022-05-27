@@ -1,0 +1,48 @@
+package com.azhar.bacaansholat.adapter
+
+import android.view.LayoutInflater
+import android.view.View
+import android.view.ViewGroup
+import android.widget.TextView
+import androidx.recyclerview.widget.RecyclerView
+import com.azhar.bacaansholat.R
+import com.azhar.bacaansholat.model.ModelBacaan
+import kotlinx.android.synthetic.main.list_niat_shalat.view.*
+
+class ShalatJenazahAdapter(private val modelBacaan: List<ModelBacaan>) : RecyclerView.Adapter<ShalatJenazahAdapter.ListViewHolder>() {
+    override fun onCreateViewHolder(viewGroup: ViewGroup, i: Int): ShalatJenazahAdapter.ListViewHolder {
+        val view = LayoutInflater.from(viewGroup.context).inflate(R.layout.list_niat_shalat, viewGroup, false)
+        return ShalatJenazahAdapter.ListViewHolder(view)
+    }
+
+    override fun onBindViewHolder(listViewHolder: ListViewHolder, i: Int) {
+        val dataModel = modelBacaan[i]
+        listViewHolder.txtId.text = dataModel.id
+        listViewHolder.txtName.text = dataModel.name
+        listViewHolder.txtArabic.text = dataModel.arabic
+        listViewHolder.txtLatin.text = dataModel.latin
+        listViewHolder.txtTerjemahan.text = dataModel.terjemahan
+    }
+
+    override fun getItemCount(): Int {
+        return modelBacaan.size
+    }
+
+
+    class ListViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
+        var txtId: TextView
+        var txtName: TextView
+        var txtArabic: TextView
+        var txtLatin: TextView
+        var txtTerjemahan: TextView
+
+        init {
+            txtId = itemView.txtId
+            txtName = itemView.txtName
+            txtArabic = itemView.txtArabic
+            txtLatin = itemView.txtLatin
+            txtTerjemahan = itemView.txtTerjemahan
+        }
+    }
+
+}

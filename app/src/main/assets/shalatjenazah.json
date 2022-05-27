@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "NIAT",
+    "arabic": "أُصَلِّيْ عَلَى هَذَا الْمَيِّتِ فَرْضًا لِلهِ تَعَالَى",
+    "latin": "Ushalli 'ala hadzal mayyiti fardlan lillahi ta'ala",
+    "terjemahan": "Aku niat shalat atas jenazah (laki-laki) ini fardhu karena Allah ta'ala "
+  },
+  {
+    "id": 2,
+    "name": "TAKBIR PERTAMA",
+    "arabic": "بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ ﴿١﴾الْحَمْدُ لِلَّـهِ رَبِّ الْعَالَمِينَ ﴿٢﴾ الرَّحْمَـٰنِ الرَّحِيمِ ﴿٣﴾ مَالِكِ يَوْمِ الدِّينِ ﴿٤﴾ إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ﴿٥﴾ اهْدِنَا   الصِّرَاطَ الْمُسْتَقِيمَ ﴿٦﴾ صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ ﴿٧",
+    "latin": "1. Bismillahirrahmanirrahim, 2. Alhamdulillahi rabbil alamin, 3. Arrahmaanirrahiim, 4. Maaliki yaumiddiin, 5. Iyyaka nabudu waiyyaaka nastaiin, 6. Ihdinashirratal mustaqim, 7. shiratalladzina an&rsquo;amta alaihim ghairil maghduubi alaihim waladhaalin",
+    "terjemahan": "1. Dengan menyebut nama Allah Yang Maha Pemurah lagi Maha Penyayang, 2. Segala puji bagi Allah, Tuhan semesta alam, 3. Maha Pemurah lagi Maha Penyayang, 4. Yang menguasai di Hari Pembalasan, 5. Hanya Engkaulah yang kami sembah, dan hanya kepada Engkaulah kami meminta pertolongan, 6. Tunjukilah kami jalan yang lurus, 7. (yaitu) Jalan orang-orang yang telah Engkau beri nikmat kepada mereka; bukan (jalan) mereka yang dimurkai dan bukan (pula jalan) mereka yang sesat"
+  },
+  {
+    "id": 3,
+    "name": "TAKBIR KEDUA",
+    "arabic": "اَللَّهُمَّ صَلِّ عَلىَ سَيِّدَنَا مُحَمَّدٍ وَعَلىَ آلِ سَيِّدَنَا مُحَمَّدٍ. كَماَ صَلَّيْتَ عَلىَ سَيِّدَنَا إِبْرَاهِيْمَ وَعَلىَ آلِ سَيِّدَنَا إِبْرَاهِيْمَ. وَباَرِكْ عَلىَ سَيِّدَنَا مُحَمَّدٍ وَعَلىَ آلِ سَيِّدَنَا مُحَمَّدٍ. كَماَ باَرَكْتَ عَلىَ سَيِّدَنَا إِبْرَاهِيْمَ وَعَلىَ آلِ سَيِّدَنَا إِبْرَاهِيْمَ. فِيْ الْعَالَمِيْنَ إِنـَّكَ حَمِيْدٌ مَجِيْدٌ",
+    "latin": "Allohumma sholli alaa sayyidinaa muhamma wa alaa ali sayyidinaa muhammad, kama sholaita alaa sayyidina ibrohim wa alaa sayyidina ibrohim, wa barik alaa sayyidinaa muhammad wa alaa ali sayyidina muhammad, kama barakta alaa sayyidina ibrohim wa alaa ali sayyidina ibrohim, fil alaaminaa innaka hamiidum majiid",
+    "terjemahan": "Ya Allah, limpahkanlah rahmat kepada Nabi Muhammad. Ya Allah, limpahilah rahmat atas keluarga Nabi Muhammad, sebagaimana telah Engkau beri rahmat kepada Nabi Ibrahim dan keluarganya, dan limpahkanlah berkah atas Nabi Muhammad beserta keluarganya, sebagaimana Engkau telah beri berkah kepada Nabi Ibrahim dan keluarganya, Bahwasanya Engkau Tuhan yang sangat terpuji lagi sangat mulia di seluruh alam"
+  },
+  {
+    "id": 4,
+    "name": "TAKBIR KETIGA",
+    "arabic": "اَللّٰهُمَّ اغْفِرْ لَهُ (لَهَا) وَارْحَمْهُ (هَا) وَعَافِهِ (هَا) وَاعْفُ عَنْهُ (هَا)، وَأَكْرِمْ نُزُلَهُ (هَا)، وَوَسِّعْ مَدْخَلَهُ (هَا)، وَاغْسِلْهُ (هَا) بِالْمَاءِ وَالثَّلْجِ وَالْبَرَدِ، وَنَقِّهِ (هَا) مِنَ الذُّنُوبِ والْخَطَايَا كَمَا يُنَقَّى الثَّوْبُ الْأَبْيَضُ مِنَ الدَّنَسِ، وَأَبْدِلْهُ (هَا) دَارًا خَيْرًا مِنْ دَارِهِ (هَا)، وَاَهْلًا خَيْرًا مِنْ اَهْلِهِ (هَا)، وَزَوْجًا خَيْرًا مِنْ زَوْجِهِ (هَا)، وَقِهِ (هَا) فِتْنَةَ الْقَبْرِ وَعَذَابِ النَّار",
+    "latin": "Allahummagfir lahuu warhamhu wa'aafihi wa'fu 'anhu wa akrim nuzulahuu wa wassi' madhkhalahuu waghsilhu bil maa-i-wats-tsalji walbaradi wa naqqihii minal-khathaayaa kamaa yunaqqats tsaubul-abyadhu minad-danasi wa abdilhu daaran khairan min daarihii wa ahlan khairan min ahlihii wa raujan khairan min zaujihi waqihii fitnatal-qabri wa'adzaaban-naar",
+    "terjemahan": ".Ya Allah, ampuni dan rahmatilah dia. Selamatkanlah dan maafkanlah dia. Berilah kehormatan untuknya, luaskanlah tempat masuknya. Mandikanlah dia dengan air, salju, dan embun. Bersihkanlah dia dari kesalahan sebagaimana Engkau bersihkan baju yang putih dari kotoran. Gantikanlah baginya rumah yang lebih baik dari rumahnya, isteri yang lebih baik dari isterinya. Dan peliharalah ia (lindungilah) dari azab kubur dan azab neraka."
+  },
+  {
+    "id": 5,
+    "name": "TAKBIR KEEMPAT",
+    "arabic": "اَللّٰهُمَّ لَا تَحْرِمْنَا اَجْرَهُ وَلَا تَفْتِنَّا بَعْدَهُ وَاغْفِرْ لَنَا وَلَهُ وَلَاِ خْوَا نِنَا الَّذِيْنَ سَبَقُوْنَا بِالْاِيْمَانِ وَلَاتَجْعَلْ فِيْ قُلُوْبِنَا غِلًّا لِّلَّذِيْنَ اٰمَنُوْا رَبَّنَااِنَّكَ رَؤُفٌ رَّحِيْمٌ",
+    "latin": "allahumma laa tahrimnaa ajro-hu walaa taftinaa ba'da-hu waghfir lanaa wa la-hu wa li ikhwanina ladzina sabaqquuna bil imaani wa la taj'al fi quluubina gilal liladzina amanuu robbana innaka rouufur rohiim",
+    "terjemahan": "Ya Allah, janganlah kiranya pahalanya tidak sampai kepada kami, dan janganlah Engkau memberi kami fitnah sepeninggalnya, dan ampunilah kami dan dia, dan bagi saudara-saudara kita yang mendahului kita dengan iman, dan janganlah Engkau menjadikan gelisah dalam hati kami dan bagi orang-orang yang beriman. Wahai Tuhan kami, sesungguhnya Engkaulah Maha Pengampun lagi Maha Penyayang"
+  },
+  {
+    "id": 6,
+    "name": "SALAM",
+    "arabic": "اَلسَّلَامُ عَلَيْكُمْ وَرَحْتُ اللّٰهِ وَبَرَكَاتُهُ",
+    "latin": "assalamualaikum warahmatullahi wabarakaatuh",
+    "terjemahan": "Keselamatan dan rahmat Allah semoga tetap pada kamu sekalian"
+  },
+]
